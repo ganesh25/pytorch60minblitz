@@ -6,7 +6,7 @@ Learning Outcomes:
 - Tensor Basics
 - Autograd Understanding
 - Neural Network Implementation 
-    - defining the net
+    - defining the net (the layers and forward pass)
     - processing input
     - computing loss
     - backpropagating loss
