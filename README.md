@@ -1,5 +1,5 @@
 # pytorch60minblitz
-Deep Learning with PyTorch
+Completed a tutorial on 'Deep Learning with PyTorch'
 
 Learning Outcomes:
 
