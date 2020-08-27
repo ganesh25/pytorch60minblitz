@@ -5,8 +5,8 @@ Learning Outcomes:
 
 - Tensor Basics
 - Autograd Understanding
-- Neural Network Flow 
-    - Defining the net
+- Neural Network Implementation 
+    - defining the net
     - processing input
     - computing loss
     - backpropagating loss
