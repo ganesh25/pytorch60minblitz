@@ -1,7 +1,14 @@
 # pytorch60minblitz
 Deep Learning with PyTorch
 
+Learning Outcomes:
+
 - Tensor Basics
 - Autograd Understanding
-- Training a NN
-- Example: Image Classification
+- Neural Network Flow 
+    - Defining the net
+    - processing input
+    - computing loss
+    - backpropagating loss
+    - update weights using package torch.optim
+- Example: Image Classification on CIFAR10 dataset
